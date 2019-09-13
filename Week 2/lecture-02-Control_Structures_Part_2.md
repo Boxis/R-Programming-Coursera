@@ -66,8 +66,7 @@ for(i in 1:100) {
 ```
 return signals that a function should exit and return a given value
 
-## Control Structures
-Summary
+## Summary
 * Control structures like if, while, and for allow you to control the flow of an R program
 * Infinite loops should generally be avoided, even if they are theoretically correct.
 * Control structures mentioned here are primarily usaeful for writing programs; for command-line interative work, the *apply functions are more useful.
