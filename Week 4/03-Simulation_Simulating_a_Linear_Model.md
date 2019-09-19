@@ -12,7 +12,7 @@ Suppose we want to simulate from the following linear model
 > plot(x, y)
 ```
 
-![Image of Linear Model](https://github.com/Boxis/R-Programming-Coursera/blob/master/Week%204/w4_simulation_linear_model.PNG)
+![Image of Linear Model](https://github.com/Boxis/R-Programming-Coursera/blob/master/Week%204/img/w4_simulation_linear_model.PNG)
 
 What if x is binary?
 ```
@@ -25,7 +25,7 @@ What if x is binary?
 -3.4936 -0.1409  1.5767  1.4322  2.8397  6.9410 
 > plot(x, y)
 ```
-![Image of binary](https://github.com/Boxis/R-Programming-Coursera/blob/master/Week%204/w4_simulation_linear_model_binary.PNG)
+![Image of binary](https://github.com/Boxis/R-Programming-Coursera/blob/master/Week%204/img/w4_simulation_linear_model_binary.PNG)
 
 Suppose we want to simulate from a Poisson model where
 
@@ -45,7 +45,7 @@ and β0 = 0.5 and β1 = 0.3. We need to use the rpois function for this
    0.00    1.00    1.00    1.55    2.00    6.00 
 > plot(x, y)
 ```
-![Image of poisson](https://github.com/Boxis/R-Programming-Coursera/blob/master/Week%204/w4_simulation_linear_model_poisson.PNG)
+![Image of poisson](https://github.com/Boxis/R-Programming-Coursera/blob/master/Week%204/img/w4_simulation_linear_model_poisson.PNG)
 
 
 
